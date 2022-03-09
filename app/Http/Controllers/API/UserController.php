@@ -106,5 +106,5 @@ class UserController extends Controller
         return response()->json(array(
             'message' => 'delete a user successfully', 
             'status' => 'true'));
-    }            
+    }    //test        
 }
